@@ -27,7 +27,7 @@ radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 </a>
 
 <a href=".">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=275"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=273"/>
 </a>
 
 
