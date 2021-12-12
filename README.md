@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=radial)
 <!--  Themes stats:-
 radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
