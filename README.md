@@ -29,4 +29,3 @@ radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D" />
 </a>
 -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmaruVL&theme=github_dark&border_color=30363D)
