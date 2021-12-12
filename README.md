@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D&show_icons=true)
 <!--  Themes stats:-
 radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=300)
 
 
 <a href=".">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D&show_icons=true"/>
 </a>
 
 <a href=".">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=300"/>
 </a>
 
 
