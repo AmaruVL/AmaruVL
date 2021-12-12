@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 <!--  Themes stats:-
 radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark)
