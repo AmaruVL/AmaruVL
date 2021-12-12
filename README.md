@@ -23,11 +23,11 @@ radical, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=300)-->
 
 
-<a href=".">
+<a href="https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D&show_icons=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmaruVL&theme=github_dark&border_color=30363D&show_icons=true"/>
 </a>
 
-<a href=".">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=280">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaruVL&layout=compact&theme=github_dark&border_color=30363D&card_width=280"/>
 </a>
 
