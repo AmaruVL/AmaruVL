@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
-
-###  Hello World! <img src="https://github.com/AmaruVL/AmaruVL/blob/main/Resources/Hi.gif" width="15px">
+###  Hello World! 👋
 <!--
+###  Hello World! <img src="https://github.com/AmaruVL/AmaruVL/blob/main/Resources/Hi.gif" width="15px">
 **AmaruVL/AmaruVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
